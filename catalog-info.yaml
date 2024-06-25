@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Mern-Website-Frontend-React
+  name: mern-website-frontend
+  description: Frontend part of the Mern Website project
   annotations:
     github.com/project-slug: Surajoberoi/Mern-Website-Frontend-React
 spec:
-  type: other
-  lifecycle: unknown
-  owner: Suraj
+  type: website
+  lifecycle: development
+  owner: team-frontend
