@@ -5,6 +5,7 @@ metadata:
   description: Frontend part of the Mern Website project
   annotations:
     github.com/project-slug: Surajoberoi/Mern-Website-Frontend-React
+    backstage.io/techdocs-ref: value
 spec:
   type: website
   lifecycle: development
